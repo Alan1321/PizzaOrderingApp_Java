@@ -1,0 +1,439 @@
+-------------------------------------------------------------------
+CustomerData: alan 7676565456 5654567656787678
+
+Orders : 
+Pizza_Number: 0
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Small
+Price of this Pizza: $10.48
+
+Pizza_Number: 1
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $11.98
+
+
+
+Total Price: $22.46
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: alan 6787676567 6765654565456768
+
+Orders : 
+Pizza_Number: 0
+Name: Supreme_Pizza
+Toppings Used: Veggies Pepperoni 
+Sauce Used: Special
+Size: Large
+Price of this Pizza: $15.98
+
+
+
+Total Price: $15.98
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: harry 8978767656 7898787676567654
+
+Orders : 
+Pizza_Number: 0
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $18.97
+
+Pizza_Number: 1
+Name: Pepperoni_Pizza
+Toppings Used: Pepperoni Extra_Cheese 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $9.98
+
+Pizza_Number: 2
+Name: Veggie_Pizza
+Toppings Used: Onions Tomatoes 
+Sauce Used: Special_Veg
+Size: Medium
+Price of this Pizza: $12.98
+
+Pizza_Number: 3
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 4
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $18.97
+
+
+
+Total Price: $73.88
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: emma 7676567876 6765654567656787
+
+Orders : 
+Pizza_Number: 0
+Name: Custom_Pizza
+Toppings Used: pepperoni mushrooms sausage spinach chicken 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $14.49
+
+Pizza_Number: 1
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $10.98
+
+Pizza_Number: 2
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $11.98
+
+
+
+Total Price: $37.45
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: carly 7675654565 4567898787676565
+
+Orders : 
+Pizza_Number: 0
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Medium
+Price of this Pizza: $11.48
+
+
+
+Total Price: $11.48
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: bruce 7687656765 5654567876787656
+
+Orders : 
+Pizza_Number: 0
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 1
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Small
+Price of this Pizza: $10.48
+
+Pizza_Number: 2
+Name: Hawaiian_Pizza
+Toppings Used: Beef Pork 
+Sauce Used: Buffalo
+Size: Medium
+Price of this Pizza: $13.48
+
+
+
+Total Price: $36.94
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: william 6756545676 6765676567656765
+
+Orders : 
+Pizza_Number: 0
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $11.98
+
+Pizza_Number: 1
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Large
+Price of this Pizza: $12.48
+
+Pizza_Number: 2
+Name: Hawaiian_Pizza
+Toppings Used: Beef Pork 
+Sauce Used: Buffalo
+Size: Large
+Price of this Pizza: $14.48
+
+Pizza_Number: 3
+Name: Margarita_Pizza
+Toppings Used: Basil Mozzarella 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $14.98
+
+Pizza_Number: 4
+Name: Veggie_Pizza
+Toppings Used: Onions Tomatoes 
+Sauce Used: Special_Veg
+Size: Large
+Price of this Pizza: $13.98
+
+Pizza_Number: 5
+Name: Meat_Pizza
+Toppings Used: Beef Sausage 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $13.48
+
+
+
+Total Price: $81.38000000000001
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: marcus 6765676545 4567656787678765
+
+Orders : 
+Pizza_Number: 0
+Name: Custom_Pizza
+Toppings Used: mushrooms onions sausage extra cheese pineapple spinach chicken 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $16.490000000000002
+
+Pizza_Number: 1
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+
+
+Total Price: $29.470000000000002
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: alan 8888888888 8888888888888888
+
+Orders : 
+Pizza_Number: 0
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 1
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 2
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 3
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+
+
+Total Price: $51.92
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: alan 8888888888 8888888888889999
+
+Orders : 
+Pizza_Number: 0
+Name: Custom_Pizza
+Toppings Used: bacon 
+Sauce Used: Garlic
+Size: Small
+Price of this Pizza: $7.99
+
+Pizza_Number: 1
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $10.98
+
+Pizza_Number: 2
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Small
+Price of this Pizza: $10.98
+
+
+
+Total Price: $29.95
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: alan 6666666666 6666666666666666
+
+Orders : 
+Pizza_Number: 0
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Small
+Price of this Pizza: $10.48
+
+
+
+Total Price: $10.48
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: alan 7876765676 5654654567656765
+
+Orders : 
+Pizza_Number: 0
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 1
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 2
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 3
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 4
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 5
+Name: Chicken_Pizza
+Toppings Used: Chicken Olives 
+Sauce Used: Tomato
+Size: Large
+Price of this Pizza: $12.98
+
+Pizza_Number: 6
+Name: Custom_Pizza
+Toppings Used: mushrooms bacon spinach 
+Sauce Used: Buffalo
+Size: Small
+Price of this Pizza: $10.49
+
+Pizza_Number: 7
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Large
+Price of this Pizza: $12.48
+
+Pizza_Number: 8
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Large
+Price of this Pizza: $12.48
+
+Pizza_Number: 9
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Large
+Price of this Pizza: $12.48
+
+
+
+Total Price: $125.81000000000002
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
+CustomerData: moro 7876765676 5654567656765454
+
+Orders : 
+Pizza_Number: 0
+Name: Mushroom_Pizza
+Toppings Used: Mushroom Broccli 
+Sauce Used: Tomato
+Size: Medium
+Price of this Pizza: $10.98
+
+Pizza_Number: 1
+Name: Cheese_Pizza
+Toppings Used: Cheese Olives 
+Sauce Used: Creamy
+Size: Small
+Price of this Pizza: $10.48
+
+Pizza_Number: 2
+Name: Supreme_Pizza
+Toppings Used: Veggies Pepperoni 
+Sauce Used: Special
+Size: Medium
+Price of this Pizza: $14.98
+
+Pizza_Number: 3
+Name: Margarita_Pizza
+Toppings Used: Basil Mozzarella 
+Sauce Used: Tomato
+Size: Small
+Price of this Pizza: $12.98
+
+Pizza_Number: 4
+Name: Hawaiian_Pizza
+Toppings Used: Beef Pork 
+Sauce Used: Buffalo
+Size: Small
+Price of this Pizza: $12.48
+
+
+
+Total Price: $61.900000000000006
+-------------------------------------------------------------------
+
